@@ -6,7 +6,7 @@ keywords: "movies, reddit, unknown, recent, overrated, underrated, rotten tomato
 ---
 <p class="lead">This is a list of movies that a <i>lot</i> of people have seen, but almost all critics and audiences agree that these movies are awful.</p>
 
-[Text version](http://rpiai.com/movies/text/worst.txt)
+[Text version](http://goodmovies.ninja/text/worst.txt)
 
 <div class="row">
 <div class="col-xs-12 col-md-6"><div class="row"><div class="col-xs-9">
