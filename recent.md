@@ -6,7 +6,7 @@ keywords: "movies, reddit, unknown, recent, overrated, underrated, rotten tomato
 ---
 <p class="lead">Not all films are movies and not all movies are films. This list is a list of the best movies in the last three years. They are sorted from best to worst, though all of them share extraordinary qualities in film making.</p>
 
-[Text version](http://rpiai.com/movies/text/recent.txt)
+[Text version](http://goodmovies.ninja/text/recent.txt)
 
 <div class="row">
 <div class="col-xs-12 col-md-6"><div class="row"><div class="col-xs-9">
