@@ -6,7 +6,7 @@ keywords: "movies, reddit, unknown, rotten tomatoes, imdb, metacritic, best, fil
 ---
 <p class="lead">This a list of movies where the critic's ratings are lower than both the RT audience ratings and the IMDB audience ratings. Sorted from worst critic rating to best.</p>
 
-[Text version](http://rpiai.com/movies/text/critics_underrate.txt)
+[Text version](http://goodmovies.ninja/text/critics_underrate.txt)
 
 <div class="row">
 <div class="col-xs-12 col-md-6"><div class="row"><div class="col-xs-9">
