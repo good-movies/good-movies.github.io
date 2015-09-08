@@ -6,7 +6,7 @@ keywords: "movies, reddit, overrated, rotten tomatoes, imdb, metacritic, best, f
 ---
 <p class="lead">This a list of movies where the critics ratings were much higher than both the RT audience ratings and the IMDB audience ratings.</p>
 
-[Text version](http://rpiai.com/movies/text/critics_overrate.txt)
+[Text version](http://goodmovies.ninja/text/critics_overrate.txt)
 
 <div class="row">
 <div class="col-xs-12 col-md-6"><div class="row"><div class="col-xs-9">
