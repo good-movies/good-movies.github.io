@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Movie lists
+title: Good movies
 description: Here are curated lists of recent great movies, great unknown movies, critically overrated movies, critically underrated movies, and the worst movies of all time.
 keywords: "movies, reddit, unknown, recent, overrated, underrated, rotten tomatoes, imdb, metacritic"
 ---
