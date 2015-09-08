@@ -6,7 +6,7 @@ keywords: "movies, reddit, unknown, recent, perfect, amazing, extraordinary, rot
 ---
 <p class="lead">These are movies that have fewer than 5,000 votes by audience members, but at least 25 votes from critics. These movies are then filtered so that only the ones that have at least 85 percent of critics enjoying the movie are shown.</p>
 
-[Text version](http://rpiai.com/movies/text/unknown.txt)
+[Text version](http://goodmovies.ninja/text/unknown.txt)
 
 <h3>As you'll notice a lot of the following recommendations are documentaries and art house films. If you'd like to read a list that excludes these genres, check out the <a href="unknown_documentaryfiltered.html">filtered great unknown list.</a></h3>
 <div class="row">
